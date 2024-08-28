@@ -11,11 +11,21 @@ A curated list of Nvidia Isaac Sim and Isaac Lab.
 
 * [OmniDrones](https://omnidrones.readthedocs.io/en/latest/) - OmniDrones is an open-source platform designed for reinforcement learning research on multi-rotor drone systems. Built on Nvidia Isaac Sim, OmniDrones features highly efficient and flexible simulation that can be adopted for various research purposes. We also provide a suite of benchmark tasks and algorithm baselines to provide preliminary results for subsequent works. [[github](https://github.com/btx0424/OmniDrones) ![OmniDrones](https://img.shields.io/github/stars/btx0424/OmniDrones.svg?style=flat&label=Star&maxAge=86400)]
 
-* [TeleVision](https://robot-tv.github.io/) - Open-TeleVision: Teleoperation with Immersive Active Visual Feedback. [[github](https://github.com/OpenTeleVision/TeleVision) ![IsaacLab](https://img.shields.io/github/stars/OpenTeleVision/TeleVision.svg?style=flat&label=Star&maxAge=86400)]
+* [SeqDex](https://sequential-dexterity.github.io) - "Sequential Dexterity: Chaining Dexterous Policies for Long-Horizon Manipulation" code repository. [[github](https://github.com/sequential-dexterity/SeqDex) ![SeqDex](https://img.shields.io/github/stars/sequential-dexterity/SeqDex.svg?style=flat&label=Star&maxAge=86400)]
+
+* [TeleVision](https://robot-tv.github.io/) - Open-TeleVision: Teleoperation with Immersive Active Visual Feedback. [[github](https://github.com/OpenTeleVision/TeleVision) ![TeleVision](https://img.shields.io/github/stars/OpenTeleVision/TeleVision.svg?style=flat&label=Star&maxAge=86400)]
+
+* [avp_teleoperate](https://github.com/unitreerobotics/avp_teleoperate) - This repository implements teleoperation of the humanoid robot Unitree H1_2 using Apple Vision Pro. [[github](https://github.com/unitreerobotics/avp_teleoperate) ![avp_teleoperate](https://img.shields.io/github/stars/unitreerobotics/avp_teleoperate.svg?style=flat&label=Star&maxAge=86400)]
 
 * [go2_omniverse](https://github.com/abizovnuralem/go2_omniverse) - Unitree Go2, Unitree G1 support for Nvidia Isaac Lab (Isaac Gym / Isaac Sim). [[github](https://github.com/abizovnuralem/go2_omniverse) ![go2_omniverse](https://img.shields.io/github/stars/abizovnuralem/go2_omniverse.svg?style=flat&label=Star&maxAge=86400)]
 
 * [NVIDIA-ISAAC-ROS](https://nvidia-isaac-ros.github.io/index.html) - High-performance computing for robotics built on ROS 2. [[github](https://github.com/NVIDIA-ISAAC-ROS)]
+
+* [PegasusSimulator](https://pegasussimulator.github.io/PegasusSimulator/) - A framework built on top of NVIDIA Isaac Sim for simulating drones with PX4 support and much more. [[github](https://github.com/PegasusSimulator/PegasusSimulator) ![PegasusSimulator](https://img.shields.io/github/stars/PegasusSimulator/PegasusSimulator.svg?style=flat&label=Star&maxAge=86400)]
+
+* [isaac-ros2-control-sample](https://hijimasa.github.io/isaac_ros2_utils/) - This repository provides various utilities (operation with ros2_control, automatic sensor generation and sensor data publishing) for easy use of Isaac Sim. [[github](https://github.com/hijimasa/isaac-ros2-control-sample) ![isaac-ros2-control-sample](https://img.shields.io/github/stars/hijimasa/isaac-ros2-control-sample.svg?style=flat&label=Star&maxAge=86400)]
+
+* [isaacsim_ros2_drone](https://github.com/SasaKuruppuarachchi/isaacsim_ros2_drone) - This repository provides various utilities (operation with ros2_control, automatic sensor generation and sensor data publishing) for easy use of Isaac Sim for drone development. [[github](https://github.com/SasaKuruppuarachchi/isaacsim_ros2_drone) ![isaacsim_ros2_drone](https://img.shields.io/github/stars/SasaKuruppuarachchi/isaacsim_ros2_drone.svg?style=flat&label=Star&maxAge=86400)]]
 
 * [isaac_ros_nitros](https://nvidia-isaac-ros.github.io/concepts/nitros/index.html) - NVIDIA Isaac Transport for ROS package for hardware-acceleration friendly movement of messages. [[github](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_nitros) ![isaac_ros_nitros](https://img.shields.io/github/stars/NVIDIA-ISAAC-ROS/isaac_ros_nitros.svg?style=flat&label=Star&maxAge=86400)]
 
@@ -27,7 +37,6 @@ A curated list of Nvidia Isaac Sim and Isaac Lab.
 
 * [IsaacLab_snake](https://github.com/niels-holzmann/IsaacLab_snake) - IsaacLab snake. [[github](https://github.com/niels-holzmann/IsaacLab_snake) ![IsaacLab_snake](https://img.shields.io/github/stars/niels-holzmann/IsaacLab_snake.svg?style=flat&label=Star&maxAge=86400)]
 
-
 ## Extensions & Tools
 
 * [skrl](https://skrl.readthedocs.io) - Modular reinforcement learning library (on PyTorch and JAX) with support for NVIDIA Isaac Gym, Omniverse Isaac Gym and Isaac Lab. [[github](https://github.com/Toni-SM/skrl) ![skrl](https://img.shields.io/github/stars/Toni-SM/skrl.svg?style=flat&label=Star&maxAge=86400)]
@@ -38,6 +47,8 @@ A curated list of Nvidia Isaac Sim and Isaac Lab.
 
 * [isaacLab.manipulation](https://github.com/NathanWu7/isaacLab.manipulation) - An independent extension based on IsaacLab. It provides support for Robot Manipulation tasks (Robot Arm and Dextrous Hand). [[github](https://github.com/NathanWu7/isaacLab.manipulation) ![isaacLab.manipulation](https://img.shields.io/github/stars/NathanWu7/isaacLab.manipulation.svg?style=flat&label=Star&maxAge=86400)]
 
+* [IsaacSim Container Installation](https://docs.omniverse.nvidia.com/isaacsim/latest/installation/install_container.html) - The container installation of Isaac Sim is recommended for deployment on remote headless servers or the Cloud using a Docker container running Linux. [[github](https://github.com/NVIDIA-Omniverse/IsaacSim-dockerfiles) ![IsaacSim-dockerfiles](https://img.shields.io/github/stars/NVIDIA-Omniverse/IsaacSim-dockerfiles.svg?style=flat&label=Star&maxAge=86400)]
+
 ## Blogs & Tutorials & Videos
 
 * [robotsfan](https://www.robotsfan.com) - A blog of Ziqi Fan.
@@ -47,8 +58,6 @@ A curated list of Nvidia Isaac Sim and Isaac Lab.
 * [Isaacsim_tutorial](https://github.com/cold-young/Isaacsim_tutorial) - Isaacsim tutorial. [[github](https://github.com/cold-young/Isaacsim_tutorial) ![Isaacsim_tutorial](https://img.shields.io/github/stars/cold-young/Isaacsim_tutorial.svg?style=flat&label=Star&maxAge=86400)]
 
 * [awesome-isaac-gym](https://github.com/wangcongrobot/awesome-isaac-gym) - A curated list of awesome NVIDIA Issac Gym frameworks, papers, software, and resources. [[github](https://github.com/wangcongrobot/awesome-isaac-gym) ![awesome-isaac-gym](https://img.shields.io/github/stars/wangcongrobot/awesome-isaac-gym.svg?style=flat&label=Star&maxAge=86400)]
-
-
 
 ## Papers & Datasets
 
