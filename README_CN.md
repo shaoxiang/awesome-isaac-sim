@@ -1915,7 +1915,7 @@ NVIDIA Isaac Sim 是一个基于 Omniverse 构建的可扩展机器人仿真平�
 
 ## 🤖 自动生成
 
-此列表由 [GPT-Awesome-List-Generator](https://github.com/your-username/GPT-Awesome-List-Generator) 自动维护。
+此列表由 [GPT-Awesome-List-Generator](https://github.com/shaoxiang/GPT-Awesome-List-Generator) 自动维护。
 
 使用 AI 发现、筛选并组织 Isaac Sim 相关的高质量资源。
 

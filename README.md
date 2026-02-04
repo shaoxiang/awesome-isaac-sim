@@ -1922,7 +1922,7 @@ Robotics researchers, AI engineers, and developers building simulated or real-wo
 
 ## 🤖 Auto-Generated
 
-This awesome list is automatically maintained by [GPT-Awesome-List-Generator](https://github.com/your-username/GPT-Awesome-List-Generator).
+This awesome list is automatically maintained by [GPT-Awesome-List-Generator](https://github.com/shaoxiang/GPT-Awesome-List-Generator).
 
 It uses AI to discover, curate, and organize high-quality resources for Isaac Sim.
 
